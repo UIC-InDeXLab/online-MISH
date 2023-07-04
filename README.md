@@ -1,1 +1,1 @@
-# Online Maximum Independent Set of Rectangles
+# Online Maximum Independent Set of Hyperrectangles
