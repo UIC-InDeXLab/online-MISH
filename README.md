@@ -1,4 +1,5 @@
 # Online Maximum Independent Set of Hyperrectangles
+[![DOI](https://zenodo.org/badge/658902479.svg)](https://zenodo.org/badge/latestdoi/658902479)
 
 Companion repo for "Online Maximum Independent Set of Hyperrectangles" paper.
 
