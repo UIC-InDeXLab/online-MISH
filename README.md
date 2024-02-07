@@ -3,16 +3,17 @@
 
 Companion repo for "Online Maximum Independent Set of Hyperrectangles" paper.
 
-Includes code to compute upper bounds on the competitive ratio of the "greedy with probability $p$" algorithm for fixed $n$ under the oblivious adversary model.
+`fixed_n_comp_ratio.ipynb` includes code to compute upper bounds on the competitive ratio of the "greedy with probability $p$" algorithm for fixed $n$ under the oblivious adversary model.
+`experiments.ipynb` includes code to empirically evaluate the online greedy algorithm under different input distributions.
 
 ## Installation
 - Clone the repo
 - Create a virtual environment using e.g., venv or Conda
 - Install any missing packages using e.g., pip or Conda
-  - only essential external package is NumPy
+  - only essential external packages are NumPy, SciPy, and Matplotlib
 
 ## Usage
-- Run `OMISH.ipynb` using Jupyter Notebook or JupyterLab
+- Run desired notebook using Jupyter Notebook or JupyterLab
 
 ## Authors
 
